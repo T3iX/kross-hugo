@@ -1,4 +1,4 @@
-baseURL = "http://t3ix.free.fr"
+baseURL = "https://sharp-bose-64791b.netlify.app"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
